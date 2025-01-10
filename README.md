@@ -1,2 +1,2 @@
 # Projek-c-
-Program c++ projek1
+Program c++
