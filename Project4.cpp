@@ -7,11 +7,11 @@ int main()
 {
     string penyanyiJazz[5];
 
-    penyanyiJazz[0] = "Rien Jamain";
-    penyanyiJazz[1] = "Yopie Latul";
-    penyanyiJazz[2] = "Nunung Wardiman";
-    penyanyiJazz[3] = "Andhien";
-    penyanyiJazz[4] = "Margie Siegers";
+    penyanyiJazz[0] = "yoga azhari";
+    penyanyiJazz[1] = "nurmulia";
+    penyanyiJazz[2] = "jupek";
+    penyanyiJazz[3] = "nova brigade";
+    penyanyiJazz[4] = "hetty";
 
     for (int j = 0; j < 5; j++)
         cout << j+1 << ". "
