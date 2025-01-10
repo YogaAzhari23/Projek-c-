@@ -5,11 +5,11 @@ int main()
 {
     int nilai[5];
     //Mengisi elemen larik
-    nilai[0] = 75;
-    nilai[1] = 80;
-    nilai[2] = 77;
-    nilai[3] = 90;
-    nilai[4] = 75;
+    nilai[0] = 55;
+    nilai[1] = 70;
+    nilai[2] = 85;
+    nilai[3] = 100;
+    nilai[4] = 95;
 
     //Menampilkam semua elemen
     for (int i = 0; i < 5; i++)
