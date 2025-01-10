@@ -12,6 +12,7 @@ int main()
     penyanyiJazz[2] = "jupek";
     penyanyiJazz[3] = "nova brigade";
     penyanyiJazz[4] = "hetty";
+    penyanyiJazz[4] = "edi";
 
     for (int j = 0; j < 5; j++)
         cout << j+1 << ". "
