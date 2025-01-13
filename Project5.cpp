@@ -13,9 +13,9 @@ int main()
 {
     struct RekamanBuku *novel, buku;
     //Isi data buku
-    buku.judul = "Badai Pasti Berlalu";
+    buku.judul = "Sabar dan ikhlas agar di rahmati allah";
     buku.pengarang = "Marga T.";
-    buku.jumlah = 2;
+    buku.jumlah = 1;
 
     //variabel pointer novel
     // diatur menunjuk ke variabel buku
